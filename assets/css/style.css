@@ -67,4 +67,8 @@ nav a {
   nav ul {
     padding: 0;
   }
+
+  nav a {
+    font-size: 1.2rem;
+  }
 }
